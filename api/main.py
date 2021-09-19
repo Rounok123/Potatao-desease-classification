@@ -1,3 +1,5 @@
+# Try to run this from Pycharm it might throw some error in VScode
+
 from fastapi import FastAPI, File, UploadFile
 from tensorflow.python.ops.gen_lookup_ops import initialize_table_from_text_file_v2_eager_fallback
 import uvicorn
